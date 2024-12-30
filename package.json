@@ -18,6 +18,9 @@
       "types": "./types/index.d.ts"
     }
   },
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "build": "rollup -c"
   },
