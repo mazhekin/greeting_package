@@ -1,2 +1,2 @@
-import { morningGreet } from "./morningGreet";
-import { eveningGreet} from "./eveningGreet";
+export { morningGreet } from "./morningGreet";
+export { eveningGreet} from "./eveningGreet";
