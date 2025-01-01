@@ -1,6 +1,6 @@
 {
   "name": "@mazhekin/greeting-package",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "This package is for greeting a person during the day",
   "repository": {
     "type": "git",
@@ -22,7 +22,8 @@
     "lib"
   ],
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "publish-npmjs": "npm publish --access=public"
   },
   "author": "mazhekin",
   "license": "MIT",
