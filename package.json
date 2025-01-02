@@ -24,7 +24,8 @@
   "scripts": {
     "build": "rollup -c",
     "publish-npmjs": "npm publish --access=public",
-    "release-package": "npm run build && npx changeset publish"
+    "release-package": "npm run build && npx changeset publish",
+    "bump-version": "npx changeset"
   },
   "author": "mazhekin",
   "license": "MIT",
