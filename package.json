@@ -25,7 +25,10 @@
     "build": "rollup -c",
     "publish-npmjs": "npm publish --access=public",
     "release-package": "npm run build && npx changeset publish",
-    "bump-version": "npx changeset"
+    "bump-version": "npx changeset",
+    "link-package": "npm link",
+    "unlink-package": "npm unlink -g",
+    "npm-root-folder": "npm root -g"
   },
   "author": "mazhekin",
   "license": "MIT",
