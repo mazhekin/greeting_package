@@ -1,5 +1,11 @@
 # @mazhekin/greeting-package
 
+## 1.2.1
+
+### Patch Changes
+
+- c57930c: Night greet changes text to something warmer
+
 ## 1.2.0
 
 ### Minor Changes
