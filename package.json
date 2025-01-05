@@ -28,7 +28,8 @@
     "bump-version": "npx changeset",
     "link-package": "npm link",
     "unlink-package": "npm unlink -g",
-    "npm-root-folder": "npm root -g"
+    "npm-root-folder": "npm root -g",
+    "enter-pre-release-mode": "npx changeset pre enter alpha"
   },
   "author": "mazhekin",
   "license": "MIT",
