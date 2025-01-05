@@ -1,5 +1,11 @@
 # @mazhekin/greeting-package
 
+## 1.2.2
+
+### Patch Changes
+
+- 4fdcae8: Night greet change
+
 ## 1.2.1
 
 ### Patch Changes
