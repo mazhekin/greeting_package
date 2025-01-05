@@ -1,5 +1,17 @@
 # @mazhekin/greeting-package
 
+## 2.0.0-beta.1
+
+### Major Changes
+
+- 5bc0e97: Grumpy cat added
+
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- 7f06b50: Added monarch cats morning greet
+
 ## 1.2.2
 
 ### Patch Changes

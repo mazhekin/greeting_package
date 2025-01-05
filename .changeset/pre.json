@@ -1,0 +1,11 @@
+{
+  "mode": "exit",
+  "tag": "beta",
+  "initialVersions": {
+    "@mazhekin/greeting-package": "1.2.1"
+  },
+  "changesets": [
+    "brown-melons-yawn",
+    "red-seas-change"
+  ]
+}
