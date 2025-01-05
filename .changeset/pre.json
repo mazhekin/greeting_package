@@ -5,6 +5,7 @@
     "@mazhekin/greeting-package": "1.2.1"
   },
   "changesets": [
-    "brown-melons-yawn"
+    "brown-melons-yawn",
+    "red-seas-change"
   ]
 }
